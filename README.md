@@ -1,6 +1,6 @@
 # car-sales-dashboard
 
-![image](https://github.com/user-attachments/assets/f9bd13e0-5203-4aa7-b93e-2c2f543d2a8f)
+![image](https://github.com/user-attachments/assets/7929fab2-148d-4629-a358-7edcd4872b9f)
 
 
 **Introduction:**
