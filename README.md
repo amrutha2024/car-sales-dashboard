@@ -65,7 +65,6 @@ name:B.Amrutha Varshini
 
 mail:bogapuriamruthavarshini.22.csd@anits.edu.in.
 
-linkedin:
 
 
 
