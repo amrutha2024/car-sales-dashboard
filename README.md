@@ -61,8 +61,11 @@ Export Options: Export the dashboard to PDF or Excel for sharing and further ana
 
 **Contact:**
 
-For any questions or support, please contact:B.Amrutha Varshini at bogapuriamruthavarshini.22.csd@anits.edu.in.
+name:B.Amrutha Varshini 
 
+mail:bogapuriamruthavarshini.22.csd@anits.edu.in.
+
+linkedin:
 
 
 
